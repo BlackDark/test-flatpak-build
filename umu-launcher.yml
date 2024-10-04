@@ -31,6 +31,7 @@ finish-args:
   - --filesystem=xdg-documents
   - --filesystem=xdg-desktop
   - --filesystem=xdg-download
+  - --filesystem=xdg-data/umu
   - --env=TZ=
   - --unset-env=TZ
   - --env=LC_ADDRESS=C
